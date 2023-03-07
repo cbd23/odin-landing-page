@@ -285,10 +285,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: auto;
     background-color: #1F2937;
     color: white;
     height: 82px;
     width: 100vw;
+    margin-top: auto;
     margin-bottom: -10px;
 }
